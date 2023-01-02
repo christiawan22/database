@@ -89,7 +89,7 @@ CREATE TABLE `tbl_member` (
 /*Data for the table `tbl_member` */
 
 insert  into `tbl_member`(`id_member`,`nama_member`,`alamat`,`email`,`no_telp`,`created`) values 
-('A0001','Yohanes','Perumnas Konohagakure','yohaneschristiawanatmaja5@gmail.com','082186905048','2022-02-22 12:22:02');
+('A0001','Yohanes','Perumnas Konohagakure','yohaneschristiawanatmaja5@gmail.com','082122223333','2002-02-02 12:22:02');
 
 /*Table structure for table `tbl_peminjaman` */
 
